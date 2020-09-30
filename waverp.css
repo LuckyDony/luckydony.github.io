@@ -1,0 +1,74 @@
+
+
+.Wavywaves {
+  margin:auto;
+  width:472px;
+  background-image: url("https://i.imgur.com/yMfU0qm.jpg");
+  padding:15px;
+  box-sizing: content-box;
+  }
+
+.Contenufuckingusefuloupas {
+  width:470px;
+  background-color:white;
+  opacity:0.9;
+  padding:1px;
+}
+
+.Supertitre {
+  border-bottom: 3px double lightblue;
+  margin:15px;
+  margin-bottom:0px;
+  Line-Height: 35px;
+}
+
+.Supertitre p{
+  margin:0px;
+  text-align:center;
+  font-size:30px;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+  font-weight: 400;
+}
+
+.Featbrother {
+ }
+
+.Featbrother p{
+  margin:0px;
+  text-align:center;
+  font-size:15px;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+  font-weight: 300;
+}
+.Textytext {
+  margin:20px 10px;
+  text-align:justify;
+  font-family: 'Roboto', sans-serif;
+  font-size:14px;
+}
+
+.Signababy {
+  text-align:right;
+  Font-size:11px;
+  margin:10px;
+}
+
+.Signababy a:link {
+    color:#820707;
+    text-decoration: none;
+}
+
+.Signababy a:visited {
+     color:#820707;
+    text-decoration: none;
+}
+
+.Signababy a:hover {
+    color:#820707;
+    text-decoration: none;
+}
+
+.Signababy a:active {
+     color:#820707;
+    text-decoration: none;
+}
